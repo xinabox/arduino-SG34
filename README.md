@@ -1,5 +1,5 @@
 # ☒CHIP SG34
-<img src="extras/SG34 V0.5.0.JPG" width="300" align="right">
+<img src="extras/SG34 V0.5.0.JPG" width="35%" height="auto" align="right">
 Sensor Module based on the MAX30105 Particle sensor.
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/SG34/).
